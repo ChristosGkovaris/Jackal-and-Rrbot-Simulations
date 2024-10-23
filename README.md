@@ -20,11 +20,12 @@ Welcome to the "Robotics Project", a simulation of a mobile robot named Jackal a
 
 
 ## How to Run
-**Clone the Repository:**
-    
-**Ensure you have Python installed:** The game requires Python 3. Ensure you have it installed on your system.
-**Ensure you have ROS installed:** The simulation requires ROS 1. Ensure you have it installed on your system.
-**Run the Game:**
+- Clone the Repository:
+  ``` bash
+      git clone https://github.com/ChristosGkovaris/Guess-the-Word-Greek-Edition.git
+      cd Guess-the-Word-Greek-Edition
+- Ensure you have Python installed: The project requires Python 3. Ensure you have it installed on your system.
+- Ensure you have ROS installed: The simulation requires ROS 1. Ensure you have it installed on your system.
 
 
 ## Collaboration
