@@ -4,14 +4,14 @@ Welcome to the "Robotics Project", a simulation of a mobile robot named Jackal a
 
 
 ## Jackal Mobile Robot
-**Objective:** Calculate the required trajectories of Jackal, using the given data.
-**How to control:** Use the command-line to control Jackal.
-**Feedback:** Observe the final position of Jackal.
+- Objective: Calculate the required trajectories of Jackal, using the given data.
+- How to control: Use the command-line to control Jackal.
+- Feedback: Observe the final position of Jackal.
 
 ## Rrbot Arm
-**Objective:** Calculate the required trajectories of Rrbot, using the given data.
-**How to control:** Use the command-line to control Rrbot.
-**Feedback:** Observe the final angle of Rrbot.
+- Objective: Calculate the required trajectories of Rrbot, using the given data.
+- How to control: Use the command-line to control Rrbot.
+- Feedback: Observe the final angle of Rrbot.
 
 
 ## Implementation Details
