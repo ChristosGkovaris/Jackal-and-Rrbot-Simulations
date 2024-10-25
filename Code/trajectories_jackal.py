@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 
-# Team 01
-# Spanou Maria, AM: 5351
-# Gkovaris Christos-Grigorios, AM: 5203
-
 import rospy                                     # ROS Python client library
 from std_srvs.srv import Empty                   # Service type for empty service calls
 import matplotlib.pyplot as plt                  # Library for plotting graphs
