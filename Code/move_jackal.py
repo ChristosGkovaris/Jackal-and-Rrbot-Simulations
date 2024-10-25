@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-# Team 01
-# Spanou Maria, AM: 5351
-# Gkovaris Christos-Grigorios, AM: 5203
-
 import ast                                       # Module for safely evaluating string expressions to Python objects
 import rospy                                     # ROS Python client library
 import argparse                                  # Module for parsing command-line arguments
