@@ -31,4 +31,6 @@ Welcome to the "Robotics Project", a simulation of a mobile robot named Jackal a
 ## Collaboration
 This project was a collaborative effort. Special thanks to [SpanouMaria](https://github.com/SpanouMaria) for their significant contributions to the development and improvement of the game.
 
-*for a pdf version of the reports, please send me an email at christosgkovariscs52@gmail.com*
+
+## Others
+For a pdf version of the reports, please send me an email at christosgkovariscs52@gmail.com
