@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 
-# Team 01
-# Spanou Maria, AM: 5351
-# Gkovaris Christos-Grigorios, AM: 5203
-
 import sys                                       # For accessing command-line arguments and exiting the program
 import rospy                                     # ROS Python client library
 import numpy as np                               # For numerical operations, specifically to create arrays of joint angles
