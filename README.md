@@ -16,7 +16,7 @@ Welcome to the "Robotics Project", a simulation of a mobile robot named Jackal a
 
 
 ## Implementation Details
-- To give commands to the robot, we use the command-line.
+- To give commands to the robot, use the command-line.
 - Using the Gazebo environment, you can add obstacles.
 
 
@@ -30,7 +30,7 @@ Welcome to the "Robotics Project", a simulation of a mobile robot named Jackal a
 
 
 ## Collaboration
-This project was a collaborative effort. Special thanks to [SpanouMaria](https://github.com/SpanouMaria) for their significant contributions to the development and improvement of the game.
+This project was a collaborative effort. Special thanks to [SpanouMaria](https://github.com/SpanouMaria) for their significant contributions to the development and improvement of the project.
 
 
 ## Others
