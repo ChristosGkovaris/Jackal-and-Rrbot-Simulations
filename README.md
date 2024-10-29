@@ -8,6 +8,7 @@ Welcome to the "Robotics Project", a simulation of a mobile robot named Jackal a
 - How to control: Use the command-line to control Jackal.
 - Feedback: Observe the final position of Jackal.
 
+
 ## Rrbot Arm
 - Objective: Calculate the required trajectories of Rrbot, using the given data.
 - How to control: Use the command-line to control Rrbot.
