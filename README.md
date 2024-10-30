@@ -25,8 +25,8 @@ Welcome to the "Robotics Project", a simulation of a mobile robot named Jackal a
   ``` bash
       git clone https://github.com/ChristosGkovaris/Robotics-Project.git
       cd Robotics-Project
-- Ensure you have Python installed: The project requires Python 3. Ensure you have it installed on your system.
-- Ensure you have ROS installed: The simulation requires ROS 1. Ensure you have it installed on your system.
+- Ensure you have Python installed: The project requires Python 3.
+- Ensure you have ROS installed: The simulation requires ROS 1.
 
 
 ## Collaboration
