@@ -4,15 +4,15 @@ Welcome to the "Robotics Project", a simulation of a mobile robot named Jackal a
 
 
 ## Jackal Mobile Robot
-- Objective: Calculate the required trajectories of Jackal, using the given data.
-- How to control: Use the command-line to control Jackal.
-- Feedback: Observe the final position of Jackal.
+- **Objective:** Calculate the required trajectories of Jackal, using the given data.
+- **How to control:** Use the command-line to control Jackal.
+- **Feedback:** Observe the final position of Jackal.
 
 
 ## Rrbot Arm
-- Objective: Calculate the required trajectories of Rrbot, using the given data.
-- How to control: Use the command-line to control Rrbot.
-- Feedback: Observe the final angle of Rrbot.
+- **Objective:** Calculate the required trajectories of Rrbot, using the given data.
+- **How to control:** Use the command-line to control Rrbot.
+- **Feedback:** Observe the final angle of Rrbot.
 
 
 ## Implementation Details
@@ -21,12 +21,12 @@ Welcome to the "Robotics Project", a simulation of a mobile robot named Jackal a
 
 
 ## How to Run
-- Clone the Repository:
+- **Clone the Repository:**
   ``` bash
       git clone https://github.com/ChristosGkovaris/Robotics-Project.git
       cd Robotics-Project
-- Ensure you have Python installed: The project requires Python 3.
-- Ensure you have ROS installed: The simulation requires ROS 1.
+- **Ensure you have Python installed:** The project requires Python 3.
+- **Ensure you have ROS installed:** The simulation requires ROS 1.
 
 
 ## Collaboration
