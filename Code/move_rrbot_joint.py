@@ -11,6 +11,7 @@ time_data = []
 q1_data = []
 q2_data = []
 
+
 def main(joint_type, start_angle, end_angle):
     # Initialize ROS node
     rospy.init_node("robot_move2", anonymous=True)
