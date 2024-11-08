@@ -12,6 +12,7 @@ joint2_positions = []
 joint1_velocities = []
 joint2_velocities = []
 
+
 # Function to reset the simulation time in Gazebo
 def reset_gazebo_simulation_time():
     # Wait for the reset simulation service to become available
@@ -27,6 +28,7 @@ def reset_gazebo_simulation_time():
         # Log an error message if the service call fails
         rospy.logerr("Service call failed: %s" % e)  
 
+
 # Function to calculate velocities from positions and time data
 def calculate_velocities(positions, time_data):
     velocities = []
@@ -37,6 +39,7 @@ def calculate_velocities(positions, time_data):
         # Append the calculated velocity to the velocities list
         velocities.append(velocity)  
     return velocities
+
 
 # Function to plot the joint positions and velocities over time
 def plot_data():
@@ -74,6 +77,7 @@ def plot_data():
     
     # Display the plot
     plt.show()  
+
 
 # Main function to control the robot joint positions
 def main():
