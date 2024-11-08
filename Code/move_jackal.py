@@ -12,6 +12,7 @@ time_data = []
 linear_velocity_data = []
 angular_velocity_data = []
 
+
 def move_jackal(rate_hz, linear_velocity, angular_velocity_deg, duration):
     global time_data, linear_velocity_data, angular_velocity_data
 
@@ -68,6 +69,7 @@ def move_jackal(rate_hz, linear_velocity, angular_velocity_deg, duration):
     # Publish the stop command
     pub.publish(vel_msg)
     rospy.loginfo("Stopping Jackal")
+
 
 def plot_data():
     global time_data, linear_velocity_data, angular_velocity_data
