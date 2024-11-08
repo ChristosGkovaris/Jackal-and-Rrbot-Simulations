@@ -23,6 +23,7 @@ theta2 = 0.0
 x = 0.0
 y = 0.0
 
+
 def reset_gazebo_simulation_time():
     # Wait for the Gazebo simulation reset service to become available
     rospy.wait_for_service('/gazebo/reset_simulation')
@@ -33,6 +34,7 @@ def reset_gazebo_simulation_time():
         rospy.loginfo("Gazebo simulation time reset.")
     except rospy.ServiceException as e:
         rospy.logerr("Service call failed: %s" % e)
+
 
 def plot_data():
     plt.figure(figsize=(15, 12))
